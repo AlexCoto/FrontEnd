@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DfLYRduMD/b37rwFTDtOx60cbPmezkG44Z1sMqff7vxJ7kM34IWEMHLl/WypYkmavjD6NHtuzyTeLJPN218gjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexe\\Desktop\\Programación Avanzada en Web (SC-701)\\Semana 12\\FrontEnd\\FE\\FE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexe\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
